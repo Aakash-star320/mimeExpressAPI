@@ -2,7 +2,6 @@
 .env
 
 # Ignore Docker-related files
-Dockerfile
 .dockerignore
 
 # Node example (if using Node.js)
